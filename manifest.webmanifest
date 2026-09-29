@@ -1,0 +1,15 @@
+{
+  "name": "Fortify Health Premix Batch Scanner",
+  "short_name": "Premix Scanner",
+  "description": "Scan, verify and record batch-wise premix transactions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5f3",
+  "theme_color": "#dc6059",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
